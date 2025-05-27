@@ -1,0 +1,25 @@
+{
+  "name": "test-project-main",
+  "version": "1.0.0",
+  "description": "<<<<<<< HEAD # lathika ======= # test-project >>>>>>> Initial commit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abishek228/lathika.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abishek228/lathika/issues"
+  },
+  "homepage": "https://github.com/Abishek228/lathika#readme",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-scripts": "^5.0.1"
+  }
+}
